@@ -72,7 +72,7 @@ This project isn’t just a personal portfolio — it's also a **practical CSS t
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/shreya-portfolio.git
-cd shreya-portfolio
+git clone https://github.com/Shreya-Karka/my-basic-portfolio.git
+cd my-basic-portfolio
 open index.html  # or open in VS Code + Live Server
 ```
