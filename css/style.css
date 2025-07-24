@@ -123,14 +123,15 @@ p {
   margin-top: 30px;
 }
 
-.socials a {
+.socials a. {
   color: #1e90ff;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s ease, transform 0.3s ease;
 }
 
-.socials a:hover {
+.socials a:hover,
+.project a:hover {
   text-decoration: underline;
   color: #ff6f61;
   transform: translateY(-3px);
@@ -233,6 +234,9 @@ textarea:focus {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
+.project a {
+  text-decoration: none;
+}
 /*.project:nth-child() {
   background-color: #9c9898;
 }*/
